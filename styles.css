@@ -1,0 +1,15 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    background-color:lightsteelblue;
+}
+
+.title {
+    color:cornflowerblue;
+}
+h1 {
+    color:rgba(255, 127, 80, 0.822);
+}
+
+p {
+    color:lightsalmon;
+}
